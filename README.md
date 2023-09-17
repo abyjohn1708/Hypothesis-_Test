@@ -40,7 +40,7 @@ Perform the hypothesis testing using correct test statistics and appropriate cri
 
 Hypothesis Test for the Average Time Working Mothers Spend Talking to Their Children:
 Null Hypothesis (H0): μ ≥ 11 minutes (The average time mothers spend talking to their children is at least 11 minutes per day).
-Alternative Hypothesis (Ha): μ < 11 minutes (The average time mothers spend talking to their children is less than 11 minutes per day).
+Alternative Hypothesis (Ha): μ < 11 minutes (The average time mothers spend talking to their children is less than 11 minutes per day) ?
 
 Given:
 Sample Mean (x̄) = 11.5 minutes
